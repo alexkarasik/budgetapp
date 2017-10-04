@@ -24,6 +24,7 @@ let budgetController = (function() {
       inc: 0
     }
   };
+  
 
   return {
     addItem: function(type, des, val) {
